@@ -1,46 +1,35 @@
- 
- 
-Full-Stack Developer passionate about building scalable web applications using modern technologies.
+# Learning Platform (Neon) 📘
+
+A modern full-stack e-learning platform live at:  
+[https://learning-platform-neon.vercel.app/](https://learning-platform-neon.vercel.app/)
 
 ---
 
-## 🔧 Tech Stack  
-- **Frontend**: React, TypeScript, Tailwind CSS  
-- **Backend**: Node.js, Express (or Fastify), TypeScript  
-- **Database**: PostgreSQL  
-- **State / Data-Fetching**: TanStack React Query  
-- **Authentication**: JWT, OAuth (Google/GitHub)  
-- **Infrastructure & DevOps**: Docker, GitHub Actions, CI/CD  
-- **Others**: Supabase, Radix UI components, Zod schema validation, BullMQ job queue, FFmpeg.wasm for media processing, OpenAI integration
+## 🧰 Tech Stack
+
+- **Frontend**: Next.js, React, TypeScript  
+- **UI / Styling**: Tailwind CSS  
+- **Backend / API**: Next.js API Routes or Node.js  
+- **Database**: Neon (PostgreSQL) :contentReference[oaicite:0]{index=0}  
+- **ORM**: Prisma (recommended) :contentReference[oaicite:1]{index=1}  
+- **Authentication**: NextAuth.js or OAuth (GitHub / Google) :contentReference[oaicite:2]{index=2}  
+- **Deployment**: Vercel :contentReference[oaicite:3]{index=3}  
 
 ---
 
-## 📂 Selected Projects  
-### [Learning-Platform](https://github.com/kishan34-Mac/Learning-Platform)  
-A full-featured e-learning system that converts content into interactive courses with quizzes, video modules, and progress tracking.
+## 🚀 Features
 
-### [Blog-Generator-AI-Integration](https://github.com/kishan34-Mac/Blog-Generater-AI-Integration)  
-A tool that takes blog post URLs and integrates AI to regenerate content, quizzes and visuals for educational reuse.
-
-### [Social-media-Dashboard](https://github.com/kishan34-Mac/Social-media-Dashboard)  
-A responsive analytics dashboard built with React, showcasing real-time data, custom charts (Recharts) and Radix UI components.
-
-> (Include more project links as relevant.)
+- User registration and login  
+- Course listing and enrollment  
+- Dynamic lesson pages  
+- Quiz and progress tracking  
+- Responsive UI with clean design  
+- Optimized for performance and scalability  
 
 ---
 
-## 🎯 What Drives Me  
-- Building **automation pipelines** that reduce repetitive tasks and let users focus on creativity.  
-- Architecting **scalable systems** that handle large volumes of data with reliability and efficiency.  
-- Crafting **beautiful user interfaces** using modern UI libraries and component-based architecture.
+## 🧭 Getting Started
 
----
-
-## 📫 Get in Touch  
-- 📧 Email: kishan@example.com  
-- 🔗 Website / Portfolio: [your-website.com](https://your-website.com)  
-- 🐙 GitHub: [github.com/kishan34-Mac](https://github.com/kishan34-Mac)
-
----
-
-Thanks for visiting my profile! 🙏  
+1. **Clone the repository**  
+   ```bash
+   git clone <your-repo-url>
